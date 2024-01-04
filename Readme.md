@@ -19,7 +19,7 @@ CREATE TABLE compatibility_results (
 once the table/schema is created in your db, grab those precious keys and paste them in the code below
 
 ```
- url: str = "https://random.supabase.co"
+    url: str = "https://random.supabase.co"
     key: str = "key"
     supabase: Client = create_client(url, key)
 ```
