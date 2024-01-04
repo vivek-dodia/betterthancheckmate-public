@@ -15,7 +15,7 @@ CREATE TABLE compatibility_results (
 ```
 
 
-### connection to supabase api to push the data directly to table
+#### connection to supabase api to push the data directly to table
 once the table/schema is created in your db, grab those precious keys and paste them in the code below
 
 ```
