@@ -80,3 +80,9 @@ Compatibility in feelings: 69.44%
 Results saved successfully.
 PS C:\Users\Vivek\Documents\betterthancheckmate>
 ```
+
+### import json model for the grafana dashboard
+
+https://grafana.com/docs/grafana/latest/dashboards/manage-dashboards/
+
+![dashboard](grafanaDashboard.png)
