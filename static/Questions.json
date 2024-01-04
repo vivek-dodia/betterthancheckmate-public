@@ -1,0 +1,53 @@
+{
+    "career": [
+        "Rate the importance of career success in the next 5 years to you. (1 being not important, 10 being very important)",
+        "Rate your desire to pursue your dream job regardless of pay. (1 being low desire, 10 being high desire)",
+        "How do you typically handle not achieving something despite hard work? (1 being easily discouraged, 10 being resilient)",
+        "How vital is financial stability in your life? (1 being not vital, 10 being extremely vital)",
+        "To what extent would you relocate for an ideal job opportunity? (1 being not willing, 10 being very willing)",
+        "How important is it for your partner to support your career choices? (1 being not important, 10 being very important)",
+        "Rate your willingness to compromise on your career for your relationship. (1 being not willing, 10 being very willing)",
+        "How essential is it for you and your partner to have similar career goals? (1 being not essential, 10 being very essential)",
+        "How do you feel about a partner who is more successful in their career? (1 being uncomfortable, 10 being comfortable and supportive)",
+        "Rate the importance of having a work-life balance. (1 being not important, 10 being very important)",
+        "How do you view the role of professional development in a relationship? (1 being not a priority, 10 being a top priority)",
+        "To what extent are you willing to make career sacrifices to support your partner's career? (1 being not willing, 10 being very willing)",
+        "How important is it for you that your partner understands your work-related stress? (1 being not important, 10 being very important)",
+        "Rate your preference for a partner who is equally ambitious in their career. (1 being not preferred, 10 being highly preferred)",
+        "How do you feel about your partner taking a career break for family or personal reasons? (1 being uncomfortable, 10 being supportive)"
+    ],
+    "love": [
+        "How open are you to having a relationship with someone of different beliefs? (1 being not open at all, 10 being very open)",
+        "Do you prefer exclusive dating (1) or dating multiple people (10)?",
+        "Would you marry for love, regardless of the person's status? (1 being not at all, 10 being absolutely)",
+        "Do you believe that confessions strengthen relationships? (1 being not at all, 10 being strongly)",
+        "How much do cultural differences matter to you in a relationship? (1 being not at all, 10 being a great deal)",
+        "Would you relocate for a significant other? (1 being not willing, 10 being very willing)",
+        "How important is physical affection in a relationship to you? (1 being not important, 10 being very important)",
+        "How much do you value long-term commitments in relationships? (1 being not at all, 10 being highly)",
+        "To what extent are shared hobbies and interests important in your relationships? (1 being not important, 10 being very important)",
+        "How essential is communication in resolving conflicts for you? (1 being not essential, 10 being very essential)",
+        "Rate the importance of your partner's social status for you. (1 being not important, 10 being very important)",
+        "How much do you believe in love at first sight? (1 being not at all, 10 being strongly)",
+        "To what degree do you consider fidelity as fundamental in a relationship? (1 being not fundamental, 10 being absolutely fundamental)",
+        "How willing are you to compromise in a relationship? (1 being not willing, 10 being very willing)",
+        "Rate the importance of having similar life goals with your partner. (1 being not important, 10 being very important)"
+    ],
+    "feelings": [
+        "Rate how significantly your relationship with your parents has influenced your life. none (1) everything (10)",
+        "How much do you agree with your friends' description of you? none (1) everything (10)",
+        "Do you tend to follow your heart more (1) or your head (10)?",
+        "Are you more inclined to hold grudges (1) or forgive easily (10)?",
+        "How deeply do you regret certain aspects of your life? none (1) everything (10)",
+        "How much do you value emotional intelligence in yourself and others? (1 being not at all, 10 being very much)",
+        "To what extent do you consider yourself empathetic? (1 being not empathetic, 10 being highly empathetic)",
+        "How often do you feel overwhelmed by your emotions? (1 being rarely, 10 being frequently)",
+        "How deeply do you regret certain aspects of your life? (1 being not at all, 10 being deeply)",
+        "How much do certain quotes resonate with you personally? (1 being not at all, 10 being deeply)",
+        "Are you more inclined to hold grudges (1) or forgive easily (10)?",
+        "Do you tend to follow your heart more (1) or your head (10)?",
+        "How much do you agree with your friends' description of you? (1 being not at all, 10 being completely)",
+        "Rate how significantly your relationship with your parents has influenced your life. (1 being not at all, 10 being significantly)",
+        "To what extent do past experiences influence your current decisions? (1 being not at all, 10 being completely)"
+    ]
+}
