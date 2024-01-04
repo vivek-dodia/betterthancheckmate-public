@@ -2,6 +2,27 @@ me and my girl tried this app called checkmate but somehow could not figure out 
 
 https://stanforddaily.com/2023/04/09/opinion-yu-checkmate-and-ai-reality/
 
+### sql query to create the db with the specific schema that i have mapped to the python code that will push to the db
+
+```
+CREATE TABLE compatibility_results (
+    Date TIMESTAMP,
+    overall_compatibility NUMERIC,
+    career_compatibility NUMERIC,
+    love_compatibility NUMERIC,
+    feelings_compatibility NUMERIC
+);
+```
+
+
+### connection to supabase api to push the data directly to table
+once the table/schema is created in your db, grab those precious keys and paste them in the code below
+
+```
+ url: str = "https://random.supabase.co"
+    key: str = "key"
+    supabase: Client = create_client(url, key)
+```
 
 ### Sample output
 
@@ -55,5 +76,7 @@ Your overall compatibility score is: 61.11%
 Compatibility in career: 55.56%
 Compatibility in love: 55.56%
 Compatibility in feelings: 69.44%
+2024-01-03 22:16:35,035:INFO - HTTP Request: POST https://random.supabase.co/rest/v1/compatibility_results "HTTP/1.1 201 Created"
+Results saved successfully.
 PS C:\Users\Vivek\Documents\betterthancheckmate>
 ```
